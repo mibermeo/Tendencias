@@ -26,6 +26,14 @@
 ![b6](https://user-images.githubusercontent.com/91167276/201486563-8ba5c0cc-f063-4494-9332-9583e8c21fb9.JPG)
 ### 12. Agregamos cualquier nombre.
 ![b7](https://user-images.githubusercontent.com/91167276/201560809-dc1fa80d-0082-4158-a0d3-797880729712.JPG)
-### 13. Configuramos la conexion. 
+### 13. Configuramos la conexion, colocamos el nombre dbpsql en el host name, en usuario ponemos postgres y la contraseña que anterior se creo.
+![b8](https://user-images.githubusercontent.com/91167276/201561626-1572031b-9ae1-4011-9ded-f15a1f686e30.JPG)
+![b9](https://user-images.githubusercontent.com/91167276/201561642-58d546a1-8383-44a7-943e-cdd355a7e81c.JPG)
+### 14.Clic derecho y seleccionamos crear base de datos.
+![b10](https://user-images.githubusercontent.com/91167276/201562002-4e78a33a-5dd5-43e1-b398-6d100f087ef8.JPG)
+### 15.Colocamos el nombre de la base de datos.
+![d11](https://user-images.githubusercontent.com/91167276/201562230-df37f67a-784b-4766-bdc9-a738cbbc8d90.JPG)
+### 16.Verificamos que se haya creado la base de datos.
+![b11](https://user-images.githubusercontent.com/91167276/201562429-ae508e85-67b8-4e09-8e4b-3aa2ab22cf10.JPG)
 
 ### Listo..!!
