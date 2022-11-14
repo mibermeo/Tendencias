@@ -24,5 +24,8 @@
 ![d10](https://user-images.githubusercontent.com/91167276/198857890-9161b9d0-ea0a-48d5-9374-b5fc073546e0.JPG)
 ### 11. Ahora vamos a crear la base de datos, le damos en add new server.
 ![b6](https://user-images.githubusercontent.com/91167276/201486563-8ba5c0cc-f063-4494-9332-9583e8c21fb9.JPG)
+### 12. Agregamos cualquier nombre.
+![b7](https://user-images.githubusercontent.com/91167276/201560809-dc1fa80d-0082-4158-a0d3-797880729712.JPG)
+### 13. Configuramos la conexion. 
 
 ### Listo..!!
