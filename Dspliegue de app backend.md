@@ -18,4 +18,7 @@
 ### 7.Procedemos a crear la imagen de sprint.boot con el comando docker build -t myapp y se nos crea.
 ![4](https://user-images.githubusercontent.com/91167276/203879852-d38d6d49-e8a1-49bd-9629-0f4e7727f8f9.png)
 ### 8. Una vez creada la imagen de sprint.boot vamos a crear el contenedor.
-
+![5](https://user-images.githubusercontent.com/91167276/203880306-4cd67182-7e6e-4a59-b75d-1d671ec9f142.png)
+### 9.Comprobamos que funcione abriendo el puerto 8081 ademas de agregar  /users en la url.
+![6](https://user-images.githubusercontent.com/91167276/203880381-f0f9f4a1-c7ce-44e9-9c58-a783dfbeddb7.png)
+## LISTO.
