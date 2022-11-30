@@ -1,4 +1,4 @@
-# Pratica Dspliegue de app backend
+# Pratica Dspliegue de app backend y front-end.
 ***
 ## Informe de la practica de como desplegar una app backent y frontend
 ### 1.Creamos una carpeta en donde va a estar nuestro proyecto dentro de esa carpeta vamos a crear otra llamada db.
